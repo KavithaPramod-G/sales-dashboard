@@ -2,7 +2,7 @@ import React from "react";
 import { TopBar } from "./TopBar";
 import { Grid } from "./Grid";
 import { Orders } from "../Orders/Orders";
-import { Insights } from "../Graphs/insights";
+import { Insights } from "../Graphs/Insights";
 import { Orders1 } from "../Orders/Orders copy";
 import { Period } from "../Graphs/PeriodChart";
 import { MyChatBot } from "../Orders/NewChat";
